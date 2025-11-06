@@ -1,4 +1,4 @@
-# ChronoNotesApp
+# ChronoNotesApp - YourPersonalNotesTakingApp
 
 ChronoNotesApp is a full-stack note-taking application that allows users to register, login, create, edit, and delete notes. The project consists of a Node.js/Express backend API and a React frontend built with Vite.
 
